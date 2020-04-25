@@ -4,7 +4,7 @@
 ## Dataset
 
 [COVID-19 dataset](https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view)
-## Training of a model with pretarined Networks
+## Training of a model
 
 [Model Saved files](https://drive.google.com/drive/folders/1iP_GYIFeSPamiVFyIi45ReaBrm423iu4?usp=sharing)
 
