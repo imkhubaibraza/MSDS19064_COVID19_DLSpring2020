@@ -5,6 +5,9 @@
 
 [COVID-19 dataset](https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view)
 ## Training of a model with pretarined Networks
+
+[Model Saved files](https://drive.google.com/drive/folders/1iP_GYIFeSPamiVFyIi45ReaBrm423iu4?usp=sharing)
+
 ### Task 1
 In this task only fine tuned fully connected layers
 
@@ -12,10 +15,10 @@ In this task only fine tuned fully connected layers
 ##### Model
 ![](figure/resnet18_fc.png)
 ##### Confusion Matrix
-![](figure/resnet18_fc.png)
+![](figure/resnet18_fc_cm.png)
 
 #### VGG16 results
-# Model 
+##### Model 
 ![](figure/vgg16_fc.png)
 ##### Confusion Matrix
 ![](figure/vgg16_fc_cm.png)
@@ -27,11 +30,11 @@ In this task finetuned complete model with existing weights
 ##### Model
 ![](figure/resnet18_fc.png)
 ##### Confusion Matrix
-![](figure/resnet18_fc.png)
+![](figure/resnet18_fc_cm.png)
 
 #### VGG16 results
 
-# Model 
+##### Model 
 ![](figure/vgg16_entire.png)
 ##### Confusion Matrix
 ![](figure/vgg16_entire_cm.png)
