@@ -7,21 +7,32 @@
 ## Training of a model with pretarined Networks
 ### Task 1
 In this task only fine tuned fully connected layers
-#### Resnet18
-##### results
 
-#### VGG16
-##### results
+#### Resnet18 results
+##### Model
+![](figure/resnet18_fc.png)
+##### Confusion Matrix
+![](figure/resnet18_fc.png)
 
+#### VGG16 results
+# Model 
+![](figure/vgg16_fc.png)
+##### Confusion Matrix
+![](figure/vgg16_fc_cm.png)
 
 ### Task 2
 In this task finetuned complete model with existing weights
-#### Resnet18
-##### results
-![](figure/adapt_results_k2c.png)
-![](figure/adapt_results_c2f.png)
-![](figure/adapt_results_c2bdd.png)
 
-#### VGG16
-##### results
+#### Resnet18 results
+##### Model
+![](figure/resnet18_fc.png)
+##### Confusion Matrix
+![](figure/resnet18_fc.png)
+
+#### VGG16 results
+
+# Model 
+![](figure/vgg16_entire.png)
+##### Confusion Matrix
+![](figure/vgg16_entire_cm.png)
 
