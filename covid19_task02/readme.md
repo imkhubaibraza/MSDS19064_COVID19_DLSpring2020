@@ -53,15 +53,15 @@ Accuracy| F1-score| Loss| Hamming loss
 92.3%| 93.1%| 0.014| 0.047
 
 
-| Covid19 |Predicted Infected        | Predicted Normal  |
+| Covid19 |Predicted Infected        | Predicted Not infected  |
 | ------------- |:-------------:| -----:|
 | Actual Infected      | 5989 | 78 |
-| Actual Normal      | 21      |   112 |
+| Actual Not Infected      | 21      |   112 |
 
-| Normal |Predicted Infected        | Predicted Normal  |
+| Normal |Predicted Infected        | Predicted Not Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Infected      | 1958 | 143 |
-| Actual Normal      | 242      |   3857 |
+| Actual Normal      | 1958 | 143 |
+| Actual Not Normal      | 242      |   3857 |
 
 | Pneumonia |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
