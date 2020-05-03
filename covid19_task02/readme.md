@@ -29,12 +29,19 @@ Accuracy| F1-score| Loss| Hamming loss
 
 | Covid19 |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Infected      | 534 | 81 |
-| Actual Normal      | 23      |   862 |
+| Actual Infected      | 598 | 2 |
+| Actual Normal      | 9      |   19 |
 
+| Covid19 |Predicted Infected        | Predicted Normal  |
+| ------------- |:-------------:| -----:|
+| Actual Infected      | 209 | 19 |
+| Actual Normal      | 16      |   384 |
 
-[[[598   2]
-  [  9  19]]
+| Covid19 |Predicted Infected        | Predicted Normal  |
+| ------------- |:-------------:| -----:|
+| Actual Infected      | 384 | 16 |
+| Actual Normal      | 19      |   209 |
+
 
 Normal:
  [[209  19]
