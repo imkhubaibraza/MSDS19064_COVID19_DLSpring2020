@@ -43,12 +43,4 @@ Accuracy| F1-score| Loss| Hamming loss
 | Actual Normal      | 19      |   209 |
 
 
-Normal:
- [[209  19]
-  [ 16 384]]
-
-Pneumonia:
- [[384  16]
-  [ 19 209]]]
-
 
