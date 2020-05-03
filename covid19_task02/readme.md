@@ -22,9 +22,9 @@ As this is multi label image classification, the loss function was  binary cross
 
 ## Final Result
 
-Accuracy | F1-score | Loss | Hamming loss
+Accuracy|F1-score|Loss|Hamming loss
 ----------|-----------
-94.0% | 95.1% | 0.016 | 0.0429
+94.0%|95.1%|0.016|0.0429
 
 
 Covid19:
