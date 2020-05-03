@@ -22,8 +22,8 @@ This repository contains code and results for COVID-19 classification assignment
 As this is multi label image classification, the loss function was  binary crossentropy logit and activation function used was sigmoid at the  output layer. so after training there is one probabilistic threshold method which  find out the best threshold value for each label seperately and based on the threshold value(0.5)
 
 
-
-## Final Result on Validation Sets
+## Best Model
+### Final Result on Validation Sets
 
 Accuracy| F1-score| Loss| Hamming loss
 ----------|-----------| -----------| -----------
@@ -44,6 +44,30 @@ Accuracy| F1-score| Loss| Hamming loss
 | ------------- |:-------------:| -----:|
 | Actual Infected      | 384 | 16 |
 | Actual Normal      | 19      |   209 |
+
+
+### Final Result on Training Sets
+
+Accuracy| F1-score| Loss| Hamming loss
+----------|-----------| -----------| -----------
+92.3%| 93.1%| 0.014| 0.047
+
+
+| Covid19 |Predicted Infected        | Predicted Normal  |
+| ------------- |:-------------:| -----:|
+| Actual Infected      | 5989 | 78 |
+| Actual Normal      | 21      |   112 |
+
+| Normal |Predicted Infected        | Predicted Normal  |
+| ------------- |:-------------:| -----:|
+| Actual Infected      | 1958 | 143 |
+| Actual Normal      | 242      |   3857 |
+
+| Pneumonia |Predicted Infected        | Predicted Normal  |
+| ------------- |:-------------:| -----:|
+| Actual Infected      | 3859 | 242 |
+| Actual Normal      | 141      |   1958 |
+
 
 
 
