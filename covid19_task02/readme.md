@@ -20,7 +20,7 @@ As this is multi label image classification, the loss function was  binary cross
 
 
 
-## Final Result
+## Final Result on Validation Sets
 
 Accuracy| F1-score| Loss| Hamming loss
 ----------|-----------| -----------| -----------
